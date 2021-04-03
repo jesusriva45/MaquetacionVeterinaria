@@ -10,12 +10,12 @@ let inputNomMascota = document.getElementById("nomMascota");
 
 
     btnVerTablaHis[i].addEventListener("click", function(e) {
-
+s
 
     })
 
-
 }*/
+
 
 
 /*$('#productList').find('tr').find('.btn-edit').each(function(index) {
