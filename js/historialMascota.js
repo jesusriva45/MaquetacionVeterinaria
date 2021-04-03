@@ -14,8 +14,8 @@ let inputNomMascota = document.getElementById("nomMascota");
 
     })
 
-
 }*/
+
 
 
 /*$('#productList').find('tr').find('.btn-edit').each(function(index) {
