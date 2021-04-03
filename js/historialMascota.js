@@ -10,7 +10,7 @@ let inputNomMascota = document.getElementById("nomMascota");
 
 
     btnVerTablaHis[i].addEventListener("click", function(e) {
-s
+
 
     })
 
